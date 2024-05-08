@@ -27,4 +27,4 @@ jobs:
           
       - name: terraform apply
         working-directory: ./live-desafio-tech-01
-        run: terraform apply --auto-aprove 
+        run: terraform apply --auto-approve
